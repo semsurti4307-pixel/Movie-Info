@@ -66,4 +66,4 @@ This project was built to demonstrate a full-stack migration and modern web deve
     *   Start Client: `cd client && npm run dev`
 
 ---
-*Built with ❤️ by Sem Surti & AI Assistant*
+*Built with ❤️ by Sem Surti*
